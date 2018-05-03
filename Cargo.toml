@@ -1,11 +1,8 @@
 [package]
-name = "test1"
+name = "example"
 version = "0.1.0"
 authors = ["broomstar <broomstar@163.com>"]
 
 [dependencies]
-# byteorder = "1.2.2"
-# bytes = { version = "0.4", features = ["serde"] }
-# djangohashers = { version="^0.3",feature=["with_pbkdf2"]}
 nx = "0.3"
 fnv = "1.0.6"
